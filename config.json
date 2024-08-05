@@ -1,0 +1,16 @@
+{
+    "autosave": true,
+    "donate-level": 5,
+    "cpu": true,
+    "opencl": false,
+    "cuda": false,
+    "pools": [
+        {
+            "url": "pool.supportxmr.com:443",
+            "user": "42U3vhaDL2gEV61XTcA5nZ5eB1ZhCY3NwG5mSRTd7RBQEnbaEoZPTf5SzNQmFqE8ZyTKZbXgMfcShAQ3yJUhqX8a4SwEoMQ",
+            "pass": "RaspberryPi-01",
+            "keepalive": true,
+            "tls": true
+        }
+    ]
+}
